@@ -9,7 +9,8 @@ baseurl: '/'
 author:
   name: 'Michal Kaptur'
   email: kaptur.michal@gmail.com
-  twitter_username: michal.kaptur@protonmail.com
+  protonmail: michal.kaptur@protonmail.com
+#  twitter_username:
   facebook_username: kaptur.michal
   github_username:  michalkaptur
   linkedin_username:  michalkaptur
