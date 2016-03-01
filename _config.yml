@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: 'Michal Kaptur'
+description: 'Michal Kaptur contact'
+url: 'http://michalkaptur.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Michal Kaptur'
+  email: kaptur.michal@gmail.com
+  twitter_username: michal.kaptur@protonmail.com
+  facebook_username: kaptur.michal
+  github_username:  michalkaptur
+  linkedin_username:  michalkaptur
 
 defaults:
   -
@@ -40,4 +40,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['Gemfile', 'Gemfile.lock']
