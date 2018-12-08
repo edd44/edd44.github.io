@@ -1,7 +1,0 @@
----
-title:  "Welcome!"
-date:   2016-03-01
-categories: []
-tags: []
----
-Welcome :) As my portfolio is yet to be uploaded - please feel free to contact me.

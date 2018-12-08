@@ -1,0 +1,17 @@
+---
+title:  "What do I mean by simple, maintainable and reliable systems?"
+date:   2018-12-08
+categories: []
+tags: []
+---
+
+*"If I have seen further it is by standing on the shoulders of giants"* ~Newton
+
+- [Simple Made Easy, by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
+- [Simplicity: Not Just For Begginners, by Kate Gregory](https://www.youtube.com/watch?v=n0Ak6xtVXno)
+- [The Joel Spolsky Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- [Software Craftsmanship, by i.e Robert C. Martin](http://manifesto.softwarecraftsmanship.org/)
+- [Architecture Matter, by Marin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
+- [Better Code, by Sean Parent](https://www.youtube.com/watch?v=cK_kftBNgBc)
+- [Leak freedom by default, by Herb Sutter](https://www.youtube.com/watch?v=JfmTagWcqoE)
+
